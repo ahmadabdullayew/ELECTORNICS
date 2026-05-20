@@ -4,7 +4,7 @@ A comprehensive collection of electronics learning resources, including fundamen
 
 ---
 
-## 📚 Learning Resources
+## 📚 Learning Methods
 
 | # | Topic | SlideShare | Notion |
 |---|-------|-----------|--------|
@@ -24,14 +24,14 @@ A comprehensive collection of electronics learning resources, including fundamen
 
 ## 🛠️ Projects
 
-| # | Topic | Notion | Academia |
-|---|-------|--------|----------|
-| 12 | Project 2.1 | [Notion](https://www.notion.so/Project-2-1-36629806a99b80cc80c0e1251fea688b?source=copy_link) | [Academia](https://www.academia.edu/167427172/Project_2_1) |
-| 13 | Project 2.2 | [Notion](https://www.notion.so/Project-2-2-36629806a99b80dda85de239df3215a6?source=copy_link) | [Academia](https://www.academia.edu/167427202/Project_2_2) |
-| 14 | Project 2.3 | [Notion](https://www.notion.so/Project-2-3-36629806a99b80688f1aeb67e10b6f86?source=copy_link) | [Academia](https://www.academia.edu/167427207/Project_2_3) |
-| 15 | Project 2.4 | [Notion](https://www.notion.so/Project-2-4-36629806a99b805d8944d41a24b9f165?source=copy_link) | [Academia](https://www.academia.edu/167427223/Project_2_4) |
-| 16 | Project 2.5 | [Notion](https://www.notion.so/Project-2-5-36629806a99b801b80f0f86d181df236?source=copy_link) | [Academia](https://www.academia.edu/167427245/Project_2_5) |
-| 17 | Ahmad Project 2.6 | [Notion](https://www.notion.so/Ahmad-Project-2-6-36629806a99b80e18edcda849b272347?source=copy_link) | [Academia](https://www.academia.edu/167430522/Automatic_Water_Level_Motor_Pump_Controller_Using_NE555_Timer_and_Conductive_Probes?source=swp_share) |
+| # | Topic | Notion | Academia | YouTube |
+|---|-------|--------|----------|---------|
+| 12 | Project 2.1 | [Notion](https://www.notion.so/Project-2-1-36629806a99b80cc80c0e1251fea688b?source=copy_link) | [Academia](https://www.academia.edu/167427172/Project_2_1) | |
+| 13 | Project 2.2 | [Notion](https://www.notion.so/Project-2-2-36629806a99b80dda85de239df3215a6?source=copy_link) | [Academia](https://www.academia.edu/167427202/Project_2_2) | |
+| 14 | Project 2.3 | [Notion](https://www.notion.so/Project-2-3-36629806a99b80688f1aeb67e10b6f86?source=copy_link) | [Academia](https://www.academia.edu/167427207/Project_2_3) | |
+| 15 | Project 2.4 | [Notion](https://www.notion.so/Project-2-4-36629806a99b805d8944d41a24b9f165?source=copy_link) | [Academia](https://www.academia.edu/167427223/Project_2_4) | |
+| 16 | Project 2.5 | [Notion](https://www.notion.so/Project-2-5-36629806a99b801b80f0f86d181df236?source=copy_link) | [Academia](https://www.academia.edu/167427245/Project_2_5) | |
+| 17 | Ahmad Project 2.6 | [Notion](https://www.notion.so/Ahmad-Project-2-6-36629806a99b80e18edcda849b272347?source=copy_link) | [Academia](http://academia.edu/167430522/Automatic_Water_Level_Motor_Pump_Controller_Using_NE555_Timer_and_Conductive_Probes) | [YouTube](https://youtu.be/umECfq9fwac?si=m_CiT2knL5-oPe8s) |
 
 ---
 
@@ -39,4 +39,6 @@ A comprehensive collection of electronics learning resources, including fundamen
 
 **Verified by:** Telman Askeraliyev (Fizika Müəllimi) – Azerbaijan
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan/)
+**Contact:**
+- [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/)
+- [Instagram](https://www.instagram.com/physics_teacher_azerbaijan/)
