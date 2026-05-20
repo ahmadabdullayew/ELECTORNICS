@@ -31,7 +31,7 @@ A comprehensive collection of electronics learning resources, including fundamen
 | 14 | Project 2.3 | [Notion](https://www.notion.so/Project-2-3-36629806a99b80688f1aeb67e10b6f86?source=copy_link) | [Academia](https://www.academia.edu/167427207/Project_2_3) |
 | 15 | Project 2.4 | [Notion](https://www.notion.so/Project-2-4-36629806a99b805d8944d41a24b9f165?source=copy_link) | [Academia](https://www.academia.edu/167427223/Project_2_4) |
 | 16 | Project 2.5 | [Notion](https://www.notion.so/Project-2-5-36629806a99b801b80f0f86d181df236?source=copy_link) | [Academia](https://www.academia.edu/167427245/Project_2_5) |
-| 17 | Yasin Project 2.6 | [Notion](https://www.notion.so/Yasin-Project-2-6-36629806a99b8095bc2febce002b4476?source=copy_link) | [Academia](https://www.academia.edu/167427251/Yasin_Project_2_6) |
+| 17 | Yasin Project 2.6 | [Notion]([https://www.notion.so/Yasin-Project-2-6-36629806a99b8095bc2febce002b4476?source=copy_link](https://www.notion.so/Ahmad-Project-2-6-36629806a99b80e18edcda849b272347?source=copy_link)) | [Academia](https://www.academia.edu/167427251/Yasin_Project_2_6) |
 
 ---
 
